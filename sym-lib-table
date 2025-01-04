@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "16bit-lvds-fx3-framegrabber")(type "KiCad")(uri "${KIPRJMOD}/16bit-lvds-fx3-framegrabber.kicad_sym")(options "")(descr ""))
+)

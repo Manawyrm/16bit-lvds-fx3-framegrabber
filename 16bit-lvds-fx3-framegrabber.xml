@@ -1,0 +1,2630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/manawyrm/Entwicklung/16bit-lvds-fx3-framegrabber/16bit-lvds-fx3-framegrabber/16bit-lvds-fx3-framegrabber.kicad_sch</source>
+    <date>2024-12-14T22:46:10+0100</date>
+    <tool>Eeschema 8.0.4</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>16bit-lvds-fx3-framegrabber</title>
+        <company/>
+        <rev>A</rev>
+        <date>2024-12-14</date>
+        <source>16bit-lvds-fx3-framegrabber.kicad_sch</source>
+        <comment number="1" value="FX3 Explorer pinout by Simon Inns"/>
+        <comment number="2" value="Creative Commons BY-SA 4.0"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/LVDSReceiver0/" tstamps="/743dea2a-120c-4971-adeb-8ecfb7efdbd6/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/LVDSReceiver1/" tstamps="/8bf09bb1-a6cf-433e-8d18-7eda9a0d6754/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/LVDSReceiver2/" tstamps="/e84dd42f-2445-4533-83c4-d3785f2a9fd4/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/LVDSReceiver3/" tstamps="/8bd5c37c-cc26-4ce6-a4d3-575ad696462f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/LVDSReceiver4/" tstamps="/059df216-db01-40f4-95d0-7613be94df5f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/LVDSReceiver5/" tstamps="/f859d5ed-133e-4e10-b958-87774599bcbb/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/LVDSReceiver6/" tstamps="/cb29959a-bad9-44f4-bae0-57029d6cd520/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/LVDSReceiver7/" tstamps="/04e325dd-9d0c-4f6e-b6ff-ab1c23e901f2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/LVDSReceiver8/" tstamps="/58413c57-d858-4302-8b41-6cb3055ebb1b/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/LVDSReceiver9/" tstamps="/377a68d9-5888-4be7-ae39-d8c6b36c0ab2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/LVDSReceiver10/" tstamps="/44eadf50-8433-4d4a-89ce-6c44ac8f01ce/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/LVDSReceiver11/" tstamps="/a23c1d68-8f58-4760-9ef9-c6804b297bed/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/LVDSReceiver12/" tstamps="/a61e811e-685a-461e-b872-c9a4a20d9aec/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/LVDSReceiver13/" tstamps="/58037707-510e-4700-b230-eff17262be04/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/LVDSReceiver14/" tstamps="/b2459229-2e7c-45be-be87-306446b76d4c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/LVDSReceiver15/" tstamps="/86fd2d1e-0011-469c-9ceb-7dd77d5e9f54/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/LVDSReceiverHSYNC/" tstamps="/cadf6fbd-a280-4e9a-92f7-19120b23dfeb/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/LVDSReceiverVSYNC/" tstamps="/5c410669-5d76-4397-af75-5750e355344f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="20" name="/LVDSReceiverDataValid/" tstamps="/afb1e9ef-e0f0-45b8-be8c-5e28da749151/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="21" name="/LVDSReceiverPIXCLK/" tstamps="/6b5589bc-233c-45ed-8d8c-42284ffc55db/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lvdsreceiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C2">
+      <value>2kV 1nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C9196</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C9196"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af48a945-556d-42c3-b695-3527003cd930</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eec3ec75-65c0-4c9c-94d2-ae1afd357d45</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>10uF 16V</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I</footprint>
+      <description>Polarized capacitor</description>
+      <fields>
+        <field name="LCSC">C7171</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I</field>
+        <field name="Datasheet"/>
+        <field name="Description">Polarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="LCSC" value="C7171"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1aa41e33-13ba-4dbd-a52c-ccd4f90b523d</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>10uF 16V</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I</footprint>
+      <description>Polarized capacitor</description>
+      <fields>
+        <field name="LCSC">C7171</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I</field>
+        <field name="Datasheet"/>
+        <field name="Description">Polarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="LCSC" value="C7171"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf849d54-71e2-4ac5-b6b2-347682766ef1</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>10uF 16V</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I</footprint>
+      <description>Polarized capacitor</description>
+      <fields>
+        <field name="LCSC">C7171</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I</field>
+        <field name="Datasheet"/>
+        <field name="Description">Polarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="LCSC" value="C7171"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>156e103e-5159-4e19-b1a8-36a022f8b554</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>GPIFII_J7</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C50980</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="gpifii_j7" part="GPIFII_J7" description=""/>
+      <property name="LCSC" value="C50980"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2030741f-5c89-4ed7-9959-99c316313e13</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>GPIFII_J6</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C50980</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="gpifii_j6" part="GPIFII_J6" description=""/>
+      <property name="LCSC" value="C50980"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e67f272-180c-484e-8c85-b742e846aaeb</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17900</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17900"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aeaf63c7-6a05-4e35-b9b3-305e2b258d94</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>5787082-5</value>
+      <footprint>16bit-lvds-fx3-framegrabber:DSUB-TH_5787082-5</footprint>
+      <fields>
+        <field name="LCSC Part">C3119894</field>
+        <field name="Footprint">16bit-lvds-fx3-framegrabber:DSUB-TH_5787082-5</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="16bit-lvds-fx3-framegrabber" part="5787082-5" description=""/>
+      <property name="LCSC Part" value="C3119894"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de7fecce-9f9a-46b5-a1b2-6bd2d8548093</tstamps>
+    </comp>
+    <comp ref="U22">
+      <value>AMS1117-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <fields>
+        <field name="LCSC">C6186</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117-3.3" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="LCSC" value="C6186"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="16bit-lvds-fx3-framegrabber.kicad_sch"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <property name="ki_fp_filters" value="SOT?223*TabPin2*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7057c909-502a-4c60-90a0-f42db0cdafcd</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver0"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver0/" tstamps="/743dea2a-120c-4971-adeb-8ecfb7efdbd6/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver0"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver0/" tstamps="/743dea2a-120c-4971-adeb-8ecfb7efdbd6/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver0"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver0/" tstamps="/743dea2a-120c-4971-adeb-8ecfb7efdbd6/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver1"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver1/" tstamps="/8bf09bb1-a6cf-433e-8d18-7eda9a0d6754/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver1"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver1/" tstamps="/8bf09bb1-a6cf-433e-8d18-7eda9a0d6754/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver1"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver1/" tstamps="/8bf09bb1-a6cf-433e-8d18-7eda9a0d6754/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver2"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver2/" tstamps="/e84dd42f-2445-4533-83c4-d3785f2a9fd4/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver2"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver2/" tstamps="/e84dd42f-2445-4533-83c4-d3785f2a9fd4/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver2"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver2/" tstamps="/e84dd42f-2445-4533-83c4-d3785f2a9fd4/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver3"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver3/" tstamps="/8bd5c37c-cc26-4ce6-a4d3-575ad696462f/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver3"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver3/" tstamps="/8bd5c37c-cc26-4ce6-a4d3-575ad696462f/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver3"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver3/" tstamps="/8bd5c37c-cc26-4ce6-a4d3-575ad696462f/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver4"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver4/" tstamps="/059df216-db01-40f4-95d0-7613be94df5f/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver4"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver4/" tstamps="/059df216-db01-40f4-95d0-7613be94df5f/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver4"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver4/" tstamps="/059df216-db01-40f4-95d0-7613be94df5f/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver5"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver5/" tstamps="/f859d5ed-133e-4e10-b958-87774599bcbb/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver5"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver5/" tstamps="/f859d5ed-133e-4e10-b958-87774599bcbb/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver5"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver5/" tstamps="/f859d5ed-133e-4e10-b958-87774599bcbb/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver6"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver6/" tstamps="/cb29959a-bad9-44f4-bae0-57029d6cd520/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver6"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver6/" tstamps="/cb29959a-bad9-44f4-bae0-57029d6cd520/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver6"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver6/" tstamps="/cb29959a-bad9-44f4-bae0-57029d6cd520/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver7"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver7/" tstamps="/04e325dd-9d0c-4f6e-b6ff-ab1c23e901f2/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver7"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver7/" tstamps="/04e325dd-9d0c-4f6e-b6ff-ab1c23e901f2/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver7"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver7/" tstamps="/04e325dd-9d0c-4f6e-b6ff-ab1c23e901f2/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver8"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver8/" tstamps="/58413c57-d858-4302-8b41-6cb3055ebb1b/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver8"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver8/" tstamps="/58413c57-d858-4302-8b41-6cb3055ebb1b/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver8"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver8/" tstamps="/58413c57-d858-4302-8b41-6cb3055ebb1b/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver9"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver9/" tstamps="/377a68d9-5888-4be7-ae39-d8c6b36c0ab2/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver9"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver9/" tstamps="/377a68d9-5888-4be7-ae39-d8c6b36c0ab2/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver9"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver9/" tstamps="/377a68d9-5888-4be7-ae39-d8c6b36c0ab2/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver10"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver10/" tstamps="/44eadf50-8433-4d4a-89ce-6c44ac8f01ce/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver10"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver10/" tstamps="/44eadf50-8433-4d4a-89ce-6c44ac8f01ce/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver10"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver10/" tstamps="/44eadf50-8433-4d4a-89ce-6c44ac8f01ce/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver11"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver11/" tstamps="/a23c1d68-8f58-4760-9ef9-c6804b297bed/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver11"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver11/" tstamps="/a23c1d68-8f58-4760-9ef9-c6804b297bed/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver11"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver11/" tstamps="/a23c1d68-8f58-4760-9ef9-c6804b297bed/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver12"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver12/" tstamps="/a61e811e-685a-461e-b872-c9a4a20d9aec/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver12"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver12/" tstamps="/a61e811e-685a-461e-b872-c9a4a20d9aec/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver12"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver12/" tstamps="/a61e811e-685a-461e-b872-c9a4a20d9aec/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver13"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver13/" tstamps="/58037707-510e-4700-b230-eff17262be04/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver13"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver13/" tstamps="/58037707-510e-4700-b230-eff17262be04/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver13"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver13/" tstamps="/58037707-510e-4700-b230-eff17262be04/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver14"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver14/" tstamps="/b2459229-2e7c-45be-be87-306446b76d4c/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver14"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver14/" tstamps="/b2459229-2e7c-45be-be87-306446b76d4c/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver14"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver14/" tstamps="/b2459229-2e7c-45be-be87-306446b76d4c/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiver15"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiver15/" tstamps="/86fd2d1e-0011-469c-9ceb-7dd77d5e9f54/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiver15"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiver15/" tstamps="/86fd2d1e-0011-469c-9ceb-7dd77d5e9f54/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiver15"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiver15/" tstamps="/86fd2d1e-0011-469c-9ceb-7dd77d5e9f54/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiverHSYNC"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiverHSYNC/" tstamps="/cadf6fbd-a280-4e9a-92f7-19120b23dfeb/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiverHSYNC"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiverHSYNC/" tstamps="/cadf6fbd-a280-4e9a-92f7-19120b23dfeb/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiverHSYNC"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiverHSYNC/" tstamps="/cadf6fbd-a280-4e9a-92f7-19120b23dfeb/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiverVSYNC"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiverVSYNC/" tstamps="/5c410669-5d76-4397-af75-5750e355344f/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiverVSYNC"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiverVSYNC/" tstamps="/5c410669-5d76-4397-af75-5750e355344f/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U19">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiverVSYNC"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiverVSYNC/" tstamps="/5c410669-5d76-4397-af75-5750e355344f/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiverDataValid"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiverDataValid/" tstamps="/afb1e9ef-e0f0-45b8-be8c-5e28da749151/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiverDataValid"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiverDataValid/" tstamps="/afb1e9ef-e0f0-45b8-be8c-5e28da749151/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiverDataValid"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiverDataValid/" tstamps="/afb1e9ef-e0f0-45b8-be8c-5e28da749151/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value="LVDSReceiverPIXCLK"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/LVDSReceiverPIXCLK/" tstamps="/6b5589bc-233c-45ed-8d8c-42284ffc55db/"/>
+      <tstamps>fdd47e71-9af5-4565-9d5b-5e63a2b17c47</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25105</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25105"/>
+      <property name="Sheetname" value="LVDSReceiverPIXCLK"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/LVDSReceiverPIXCLK/" tstamps="/6b5589bc-233c-45ed-8d8c-42284ffc55db/"/>
+      <tstamps>1acf879f-07f2-428f-9089-d72a03ab034e</tstamps>
+    </comp>
+    <comp ref="U21">
+      <value>SN65LVDT2DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</datasheet>
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <fields>
+        <field name="LCSC">C130020</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <libsource lib="Interface" part="SN65LVDT2DBV" description="High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5"/>
+      <property name="LCSC" value="C130020"/>
+      <property name="Sheetname" value="LVDSReceiverPIXCLK"/>
+      <property name="Sheetfile" value="lvdsreceiver.kicad_sch"/>
+      <property name="ki_keywords" value="LVDS Receiver TI"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/LVDSReceiverPIXCLK/" tstamps="/6b5589bc-233c-45ed-8d8c-42284ffc55db/"/>
+      <tstamps>1603a63c-eb9b-4db7-9e81-ad6735547afe</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface" part="SN65LVDT2DBV">
+      <description>High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</description>
+      <docs>https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN65LVDT2DBV</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn65lvdt2.pdf</field>
+        <field name="Description">High-Speed Differential Line Receiver, 110 Ω Terminated, 630Mbps, SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V_{CC}" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="A" type="input"/>
+        <pin num="4" name="B" type="input"/>
+        <pin num="5" name="R" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-3.3">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="16bit-lvds-fx3-framegrabber" part="5787082-5">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">5787082-5</field>
+        <field name="Footprint">16bit-lvds-fx3-framegrabber:DSUB-TH_5787082-5</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="LCSC Part">C3119894</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+        <pin num="6" name="6" type="unspecified"/>
+        <pin num="7" name="7" type="unspecified"/>
+        <pin num="8" name="8" type="unspecified"/>
+        <pin num="9" name="9" type="unspecified"/>
+        <pin num="10" name="10" type="unspecified"/>
+        <pin num="11" name="11" type="unspecified"/>
+        <pin num="12" name="12" type="unspecified"/>
+        <pin num="13" name="13" type="unspecified"/>
+        <pin num="14" name="14" type="unspecified"/>
+        <pin num="15" name="15" type="unspecified"/>
+        <pin num="16" name="16" type="unspecified"/>
+        <pin num="17" name="17" type="unspecified"/>
+        <pin num="18" name="18" type="unspecified"/>
+        <pin num="19" name="19" type="unspecified"/>
+        <pin num="20" name="20" type="unspecified"/>
+        <pin num="21" name="21" type="unspecified"/>
+        <pin num="22" name="22" type="unspecified"/>
+        <pin num="23" name="23" type="unspecified"/>
+        <pin num="24" name="24" type="unspecified"/>
+        <pin num="25" name="25" type="unspecified"/>
+        <pin num="26" name="26" type="unspecified"/>
+        <pin num="27" name="27" type="unspecified"/>
+        <pin num="28" name="28" type="unspecified"/>
+        <pin num="29" name="29" type="unspecified"/>
+        <pin num="30" name="30" type="unspecified"/>
+        <pin num="31" name="31" type="unspecified"/>
+        <pin num="32" name="32" type="unspecified"/>
+        <pin num="33" name="33" type="unspecified"/>
+        <pin num="34" name="34" type="unspecified"/>
+        <pin num="35" name="35" type="unspecified"/>
+        <pin num="36" name="36" type="unspecified"/>
+        <pin num="37" name="37" type="unspecified"/>
+        <pin num="38" name="38" type="unspecified"/>
+        <pin num="39" name="39" type="unspecified"/>
+        <pin num="40" name="40" type="unspecified"/>
+        <pin num="41" name="41" type="unspecified"/>
+        <pin num="42" name="42" type="unspecified"/>
+        <pin num="43" name="43" type="unspecified"/>
+        <pin num="44" name="44" type="unspecified"/>
+        <pin num="45" name="45" type="unspecified"/>
+        <pin num="46" name="46" type="unspecified"/>
+        <pin num="47" name="47" type="unspecified"/>
+        <pin num="48" name="48" type="unspecified"/>
+        <pin num="49" name="49" type="unspecified"/>
+        <pin num="50" name="50" type="unspecified"/>
+        <pin num="S1" name="S1" type="unspecified"/>
+        <pin num="S2" name="S2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="gpifii_j6" part="GPIFII_J6">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">GPIFII_J6</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="V3P3" type="power_in"/>
+        <pin num="2" name="V1P2" type="power_out"/>
+        <pin num="3" name="USB3_VBUS" type="power_in"/>
+        <pin num="4" name="USB3_VBUS" type="power_in"/>
+        <pin num="5" name="KEY" type="no_connect"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="CTL12" type="bidirectional"/>
+        <pin num="8" name="DQ15" type="bidirectional"/>
+        <pin num="9" name="CTL11" type="bidirectional"/>
+        <pin num="10" name="DQ14" type="bidirectional"/>
+        <pin num="11" name="CTL10" type="bidirectional"/>
+        <pin num="12" name="DQ13" type="bidirectional"/>
+        <pin num="13" name="CTL9" type="bidirectional"/>
+        <pin num="14" name="DQ12" type="bidirectional"/>
+        <pin num="15" name="CTL8" type="bidirectional"/>
+        <pin num="16" name="DQ11" type="bidirectional"/>
+        <pin num="17" name="CTL7" type="bidirectional"/>
+        <pin num="18" name="DQ10" type="bidirectional"/>
+        <pin num="19" name="CTL6" type="bidirectional"/>
+        <pin num="20" name="DQ9" type="bidirectional"/>
+        <pin num="21" name="CTL5" type="bidirectional"/>
+        <pin num="22" name="DQ8" type="bidirectional"/>
+        <pin num="23" name="CTL4_SW" type="bidirectional"/>
+        <pin num="24" name="DQ7" type="bidirectional"/>
+        <pin num="25" name="CTL3" type="bidirectional"/>
+        <pin num="26" name="DQ6" type="bidirectional"/>
+        <pin num="27" name="CTL2" type="bidirectional"/>
+        <pin num="28" name="DQ5" type="bidirectional"/>
+        <pin num="29" name="CTL1" type="bidirectional"/>
+        <pin num="30" name="DQ4" type="bidirectional"/>
+        <pin num="31" name="CTL0" type="bidirectional"/>
+        <pin num="32" name="DQ3" type="bidirectional"/>
+        <pin num="33" name="GND" type="power_in"/>
+        <pin num="34" name="DQ2" type="bidirectional"/>
+        <pin num="35" name="PCLK" type="bidirectional"/>
+        <pin num="36" name="DQ1" type="bidirectional"/>
+        <pin num="37" name="GND" type="power_in"/>
+        <pin num="38" name="DQ0" type="bidirectional"/>
+        <pin num="39" name="I2C_SDA_FX3" type="bidirectional"/>
+        <pin num="40" name="I2C_SCL_FX3" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="gpifii_j7" part="GPIFII_J7">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">GPIFII_J7</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="V3P3" type="power_in"/>
+        <pin num="2" name="V1P2" type="power_in"/>
+        <pin num="3" name="INT_N_CTL15" type="bidirectional"/>
+        <pin num="4" name="VIO" type="power_out"/>
+        <pin num="5" name="KEY" type="no_connect"/>
+        <pin num="6" name="DQ31" type="bidirectional"/>
+        <pin num="7" name="PMODE_2" type="bidirectional"/>
+        <pin num="8" name="DQ30" type="bidirectional"/>
+        <pin num="9" name="PMODE_1" type="bidirectional"/>
+        <pin num="10" name="DQ29" type="bidirectional"/>
+        <pin num="11" name="PMODE_0" type="bidirectional"/>
+        <pin num="12" name="DQ28" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GPIO45" type="bidirectional"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="DQ27" type="bidirectional"/>
+        <pin num="17" name="GND" type="power_in"/>
+        <pin num="18" name="DQ26" type="bidirectional"/>
+        <pin num="19" name="SPI-MOSI_UART-RX" type="bidirectional"/>
+        <pin num="20" name="DQ25" type="bidirectional"/>
+        <pin num="21" name="SPI-MISO_UART_TX" type="bidirectional"/>
+        <pin num="22" name="DQ24" type="bidirectional"/>
+        <pin num="23" name="SPI-SSN_UART-CTS" type="bidirectional"/>
+        <pin num="24" name="DQ23" type="bidirectional"/>
+        <pin num="25" name="GND" type="power_in"/>
+        <pin num="26" name="DQ22" type="bidirectional"/>
+        <pin num="27" name="SPI-SCK_UART-RTS" type="bidirectional"/>
+        <pin num="28" name="DQ21" type="bidirectional"/>
+        <pin num="29" name="GND" type="power_in"/>
+        <pin num="30" name="DQ20" type="bidirectional"/>
+        <pin num="31" name="I2S_WS" type="bidirectional"/>
+        <pin num="32" name="DQ19" type="bidirectional"/>
+        <pin num="33" name="I2S_SD" type="bidirectional"/>
+        <pin num="34" name="DQ18" type="bidirectional"/>
+        <pin num="35" name="GPIO57_I2S-MCLK_VIO3_SW" type="bidirectional"/>
+        <pin num="36" name="DQ17" type="bidirectional"/>
+        <pin num="37" name="I2S_CLK" type="bidirectional"/>
+        <pin num="38" name="DQ16" type="bidirectional"/>
+        <pin num="39" name="GND" type="power_in"/>
+        <pin num="40" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Interface.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="16bit-lvds-fx3-framegrabber">
+      <uri>/Users/manawyrm/Entwicklung/16bit-lvds-fx3-framegrabber/16bit-lvds-fx3-framegrabber/16bit-lvds-fx3-framegrabber.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U11" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U12" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U13" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U14" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U15" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U16" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U17" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U18" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U19" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U20" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U21" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U22" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U3" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+      <node ref="U9" pin="1" pinfunction="V_{CC}" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="USB3_VBUS" pintype="power_in"/>
+      <node ref="J2" pin="4" pinfunction="USB3_VBUS" pintype="power_in"/>
+      <node ref="U22" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="/DATA_VALID">
+      <node ref="J2" pin="17" pinfunction="CTL7" pintype="bidirectional"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/DATA_VALID+">
+      <node ref="U1" pin="10" pinfunction="10" pintype="unspecified"/>
+      <node ref="U20" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="5" name="/DATA_VALID-">
+      <node ref="U1" pin="35" pinfunction="35" pintype="unspecified"/>
+      <node ref="U20" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="6" name="/HSYNC">
+      <node ref="J2" pin="19" pinfunction="CTL6" pintype="bidirectional"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/HSYNC+">
+      <node ref="U1" pin="7" pinfunction="7" pintype="unspecified"/>
+      <node ref="U18" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="8" name="/HSYNC-">
+      <node ref="U1" pin="32" pinfunction="32" pintype="unspecified"/>
+      <node ref="U18" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="9" name="/LVDSReceiver7/A">
+      <node ref="U9" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="10" name="/LVDSReceiver7/B">
+      <node ref="U9" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="11" name="/LVDSReceiver7/R">
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/OUT0">
+      <node ref="J2" pin="38" pinfunction="DQ0" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/OUT0+">
+      <node ref="U1" pin="38" pinfunction="38" pintype="unspecified"/>
+      <node ref="U2" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="14" name="/OUT0-">
+      <node ref="U1" pin="13" pinfunction="13" pintype="unspecified"/>
+      <node ref="U2" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="15" name="/OUT1">
+      <node ref="J2" pin="36" pinfunction="DQ1" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="/OUT1+">
+      <node ref="U1" pin="39" pinfunction="39" pintype="unspecified"/>
+      <node ref="U3" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="17" name="/OUT1-">
+      <node ref="U1" pin="14" pinfunction="14" pintype="unspecified"/>
+      <node ref="U3" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="18" name="/OUT2">
+      <node ref="J2" pin="34" pinfunction="DQ2" pintype="bidirectional"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="/OUT2+">
+      <node ref="U1" pin="40" pinfunction="40" pintype="unspecified"/>
+      <node ref="U4" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="20" name="/OUT2-">
+      <node ref="U1" pin="15" pinfunction="15" pintype="unspecified"/>
+      <node ref="U4" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="21" name="/OUT3">
+      <node ref="J2" pin="32" pinfunction="DQ3" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="/OUT3+">
+      <node ref="U1" pin="41" pinfunction="41" pintype="unspecified"/>
+      <node ref="U5" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="23" name="/OUT3-">
+      <node ref="U1" pin="16" pinfunction="16" pintype="unspecified"/>
+      <node ref="U5" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="24" name="/OUT4">
+      <node ref="J2" pin="30" pinfunction="DQ4" pintype="bidirectional"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="/OUT4+">
+      <node ref="U1" pin="42" pinfunction="42" pintype="unspecified"/>
+      <node ref="U6" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="26" name="/OUT4-">
+      <node ref="U1" pin="17" pinfunction="17" pintype="unspecified"/>
+      <node ref="U6" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="27" name="/OUT5">
+      <node ref="J2" pin="28" pinfunction="DQ5" pintype="bidirectional"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="/OUT5+">
+      <node ref="U1" pin="43" pinfunction="43" pintype="unspecified"/>
+      <node ref="U7" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="29" name="/OUT5-">
+      <node ref="U1" pin="18" pinfunction="18" pintype="unspecified"/>
+      <node ref="U7" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="30" name="/OUT6">
+      <node ref="J2" pin="26" pinfunction="DQ6" pintype="bidirectional"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="/OUT6+">
+      <node ref="U1" pin="45" pinfunction="45" pintype="unspecified"/>
+      <node ref="U8" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="32" name="/OUT6-">
+      <node ref="U1" pin="20" pinfunction="20" pintype="unspecified"/>
+      <node ref="U8" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="33" name="/OUT7">
+      <node ref="J2" pin="24" pinfunction="DQ7" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/OUT7+">
+      <node ref="U1" pin="46" pinfunction="46" pintype="unspecified"/>
+    </net>
+    <net code="35" name="/OUT7-">
+      <node ref="U1" pin="21" pinfunction="21" pintype="unspecified"/>
+    </net>
+    <net code="36" name="/OUT8">
+      <node ref="J2" pin="22" pinfunction="DQ8" pintype="bidirectional"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="/OUT8+">
+      <node ref="U1" pin="47" pinfunction="47" pintype="unspecified"/>
+      <node ref="U10" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="38" name="/OUT8-">
+      <node ref="U1" pin="22" pinfunction="22" pintype="unspecified"/>
+      <node ref="U10" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="39" name="/OUT9">
+      <node ref="J2" pin="20" pinfunction="DQ9" pintype="bidirectional"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="/OUT9+">
+      <node ref="U1" pin="48" pinfunction="48" pintype="unspecified"/>
+      <node ref="U11" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="41" name="/OUT9-">
+      <node ref="U1" pin="23" pinfunction="23" pintype="unspecified"/>
+      <node ref="U11" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="42" name="/OUT10">
+      <node ref="J2" pin="18" pinfunction="DQ10" pintype="bidirectional"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="/OUT10+">
+      <node ref="U1" pin="49" pinfunction="49" pintype="unspecified"/>
+      <node ref="U12" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="44" name="/OUT10-">
+      <node ref="U1" pin="24" pinfunction="24" pintype="unspecified"/>
+      <node ref="U12" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="45" name="/OUT11">
+      <node ref="J2" pin="16" pinfunction="DQ11" pintype="bidirectional"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="/OUT11+">
+      <node ref="U1" pin="50" pinfunction="50" pintype="unspecified"/>
+      <node ref="U13" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="47" name="/OUT11-">
+      <node ref="U1" pin="25" pinfunction="25" pintype="unspecified"/>
+      <node ref="U13" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="48" name="/OUT12">
+      <node ref="J2" pin="14" pinfunction="DQ12" pintype="bidirectional"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="/OUT12+">
+      <node ref="U1" pin="26" pinfunction="26" pintype="unspecified"/>
+      <node ref="U14" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="50" name="/OUT12-">
+      <node ref="U1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U14" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="51" name="/OUT13">
+      <node ref="J2" pin="12" pinfunction="DQ13" pintype="bidirectional"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="/OUT13+">
+      <node ref="U1" pin="27" pinfunction="27" pintype="unspecified"/>
+      <node ref="U15" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="53" name="/OUT13-">
+      <node ref="U1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U15" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="54" name="/OUT14">
+      <node ref="J2" pin="10" pinfunction="DQ14" pintype="bidirectional"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="/OUT14+">
+      <node ref="U1" pin="29" pinfunction="29" pintype="unspecified"/>
+      <node ref="U16" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="56" name="/OUT14-">
+      <node ref="U1" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="U16" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="57" name="/OUT15">
+      <node ref="J2" pin="8" pinfunction="DQ15" pintype="bidirectional"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="/OUT15+">
+      <node ref="U1" pin="30" pinfunction="30" pintype="unspecified"/>
+      <node ref="U17" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="59" name="/OUT15-">
+      <node ref="U1" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="U17" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="60" name="/PIXCLK">
+      <node ref="J2" pin="35" pinfunction="PCLK" pintype="bidirectional"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="/PIXCLK+">
+      <node ref="U1" pin="6" pinfunction="6" pintype="unspecified"/>
+      <node ref="U21" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="62" name="/PIXCLK-">
+      <node ref="U1" pin="31" pinfunction="31" pintype="unspecified"/>
+      <node ref="U21" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="63" name="/VSYNC">
+      <node ref="J2" pin="21" pinfunction="CTL5" pintype="bidirectional"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="/VSYNC+">
+      <node ref="U1" pin="9" pinfunction="9" pintype="unspecified"/>
+      <node ref="U19" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="65" name="/VSYNC-">
+      <node ref="U1" pin="34" pinfunction="34" pintype="unspecified"/>
+      <node ref="U19" pin="4" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="66" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="17" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="25" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="29" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="39" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="40" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="33" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="37" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="19" pintype="unspecified"/>
+      <node ref="U1" pin="28" pinfunction="28" pintype="unspecified"/>
+      <node ref="U1" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="U1" pin="33" pinfunction="33" pintype="unspecified"/>
+      <node ref="U1" pin="44" pinfunction="44" pintype="unspecified"/>
+      <node ref="U1" pin="8" pinfunction="8" pintype="unspecified"/>
+      <node ref="U10" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U15" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U16" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U17" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U18" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U19" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U20" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U21" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U22" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="67" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="S1" pinfunction="S1" pintype="unspecified"/>
+      <node ref="U1" pin="S2" pinfunction="S2" pintype="unspecified"/>
+    </net>
+    <net code="68" name="Net-(U2-R)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="69" name="Net-(U3-R)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="70" name="Net-(U4-R)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="71" name="Net-(U5-R)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="72" name="Net-(U6-R)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="73" name="Net-(U7-R)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="74" name="Net-(U8-R)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="75" name="Net-(U9-R)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U9" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="76" name="Net-(U10-R)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="77" name="Net-(U11-R)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U11" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="78" name="Net-(U12-R)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U12" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="79" name="Net-(U13-R)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U13" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="80" name="Net-(U14-R)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U14" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="81" name="Net-(U15-R)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U15" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="82" name="Net-(U16-R)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U16" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="83" name="Net-(U17-R)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U17" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="84" name="Net-(U18-R)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U18" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="85" name="Net-(U19-R)">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U19" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="86" name="Net-(U20-R)">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U20" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="87" name="Net-(U21-R)">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U21" pin="5" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="88" name="unconnected-(J1-DQ16-Pad38)">
+      <node ref="J1" pin="38" pinfunction="DQ16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(J1-DQ17-Pad36)">
+      <node ref="J1" pin="36" pinfunction="DQ17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(J1-DQ18-Pad34)">
+      <node ref="J1" pin="34" pinfunction="DQ18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(J1-DQ19-Pad32)">
+      <node ref="J1" pin="32" pinfunction="DQ19" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(J1-DQ20-Pad30)">
+      <node ref="J1" pin="30" pinfunction="DQ20" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(J1-DQ21-Pad28)">
+      <node ref="J1" pin="28" pinfunction="DQ21" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(J1-DQ22-Pad26)">
+      <node ref="J1" pin="26" pinfunction="DQ22" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(J1-DQ23-Pad24)">
+      <node ref="J1" pin="24" pinfunction="DQ23" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(J1-DQ24-Pad22)">
+      <node ref="J1" pin="22" pinfunction="DQ24" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(J1-DQ25-Pad20)">
+      <node ref="J1" pin="20" pinfunction="DQ25" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(J1-DQ26-Pad18)">
+      <node ref="J1" pin="18" pinfunction="DQ26" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(J1-DQ27-Pad16)">
+      <node ref="J1" pin="16" pinfunction="DQ27" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(J1-DQ28-Pad12)">
+      <node ref="J1" pin="12" pinfunction="DQ28" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(J1-DQ29-Pad10)">
+      <node ref="J1" pin="10" pinfunction="DQ29" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(J1-DQ30-Pad8)">
+      <node ref="J1" pin="8" pinfunction="DQ30" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(J1-DQ31-Pad6)">
+      <node ref="J1" pin="6" pinfunction="DQ31" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(J1-GPIO45-Pad14)">
+      <node ref="J1" pin="14" pinfunction="GPIO45" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(J1-GPIO57_I2S-MCLK_VIO3_SW-Pad35)">
+      <node ref="J1" pin="35" pinfunction="GPIO57_I2S-MCLK_VIO3_SW" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(J1-I2S_CLK-Pad37)">
+      <node ref="J1" pin="37" pinfunction="I2S_CLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(J1-I2S_SD-Pad33)">
+      <node ref="J1" pin="33" pinfunction="I2S_SD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(J1-I2S_WS-Pad31)">
+      <node ref="J1" pin="31" pinfunction="I2S_WS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(J1-INT_N_CTL15-Pad3)">
+      <node ref="J1" pin="3" pinfunction="INT_N_CTL15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(J1-KEY-Pad5)">
+      <node ref="J1" pin="5" pinfunction="KEY" pintype="no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(J1-PMODE_0-Pad11)">
+      <node ref="J1" pin="11" pinfunction="PMODE_0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(J1-PMODE_1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="PMODE_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(J1-PMODE_2-Pad7)">
+      <node ref="J1" pin="7" pinfunction="PMODE_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(J1-SPI-MISO_UART_TX-Pad21)">
+      <node ref="J1" pin="21" pinfunction="SPI-MISO_UART_TX" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(J1-SPI-MOSI_UART-RX-Pad19)">
+      <node ref="J1" pin="19" pinfunction="SPI-MOSI_UART-RX" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(J1-SPI-SCK_UART-RTS-Pad27)">
+      <node ref="J1" pin="27" pinfunction="SPI-SCK_UART-RTS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(J1-SPI-SSN_UART-CTS-Pad23)">
+      <node ref="J1" pin="23" pinfunction="SPI-SSN_UART-CTS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(J1-V1P2-Pad2)">
+      <node ref="J1" pin="2" pinfunction="V1P2" pintype="power_in+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(J1-V3P3-Pad1)">
+      <node ref="J1" pin="1" pinfunction="V3P3" pintype="power_in+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(J1-VIO-Pad4)">
+      <node ref="J1" pin="4" pinfunction="VIO" pintype="power_out+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(J2-CTL0-Pad31)">
+      <node ref="J2" pin="31" pinfunction="CTL0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(J2-CTL1-Pad29)">
+      <node ref="J2" pin="29" pinfunction="CTL1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(J2-CTL2-Pad27)">
+      <node ref="J2" pin="27" pinfunction="CTL2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(J2-CTL3-Pad25)">
+      <node ref="J2" pin="25" pinfunction="CTL3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(J2-CTL4_SW-Pad23)">
+      <node ref="J2" pin="23" pinfunction="CTL4_SW" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(J2-CTL8-Pad15)">
+      <node ref="J2" pin="15" pinfunction="CTL8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(J2-CTL9-Pad13)">
+      <node ref="J2" pin="13" pinfunction="CTL9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(J2-CTL10-Pad11)">
+      <node ref="J2" pin="11" pinfunction="CTL10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(J2-CTL11-Pad9)">
+      <node ref="J2" pin="9" pinfunction="CTL11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(J2-CTL12-Pad7)">
+      <node ref="J2" pin="7" pinfunction="CTL12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(J2-I2C_SCL_FX3-Pad40)">
+      <node ref="J2" pin="40" pinfunction="I2C_SCL_FX3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(J2-I2C_SDA_FX3-Pad39)">
+      <node ref="J2" pin="39" pinfunction="I2C_SDA_FX3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(J2-KEY-Pad5)">
+      <node ref="J2" pin="5" pinfunction="KEY" pintype="no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(J2-V1P2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="V1P2" pintype="power_out+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(J2-V3P3-Pad1)">
+      <node ref="J2" pin="1" pinfunction="V3P3" pintype="power_in+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(U1-Pad11)">
+      <node ref="U1" pin="11" pinfunction="11" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="12" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(U1-Pad36)">
+      <node ref="U1" pin="36" pinfunction="36" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="139" name="unconnected-(U1-Pad37)">
+      <node ref="U1" pin="37" pinfunction="37" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>
