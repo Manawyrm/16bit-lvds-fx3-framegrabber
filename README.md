@@ -18,5 +18,8 @@ Required signals:
 
 The framegrabber follows the common industry standard pinout for 16bit digital LVDS video.
 
+### Errata
+None so far. Rev. A works well.
+
 ### Additional info 
 [Firmware](https://github.com/Manawyrm/16bit-lvds-fx3-framegrabber-fw)  
